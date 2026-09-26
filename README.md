@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=a371f7&center=true&vCenter=true&width=500&height=44&lines=%3E_+software+production;%3E_+strictly+typed;%3E_+robust+systems" alt="software production, strictly typed, robust systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=a371f7&center=true&vCenter=true&width=500&height=44&lines=%3E_+.%2Fsoftware+production;%3E_+.%2Fstrictly+typed;%3E_+.%2Frobust+systems" alt="software production, strictly typed, robust systems" />
 </p>
 
 ### Overview
