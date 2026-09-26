@@ -83,9 +83,13 @@ Engineering robust, scalable applications. Strict focus on maintainability, clea
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdev-co/mdev-co/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/mdev-co/mdev-co/output/github-snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdev-co/mdev-co/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mdev-co/mdev-co/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdev-co/mdev-co/output/profile-3d.svg" alt="3D contribution graph" />
 </p>
 
 ## Dev Quote

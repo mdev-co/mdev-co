@@ -1,0 +1,40 @@
+name: Generate profile graphs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Pac-Man graph
+        uses: abozanona/pacman-contribution-graph@v5.3.2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: 3D graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d.json
+
+      - name: Collect images
+        run: cp profile-3d-contrib/profile-3d.svg dist/
+
+      - uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: ${{ github.ref_name == 'main' && 'output' || 'output-preview' }}
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
