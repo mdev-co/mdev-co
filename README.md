@@ -10,7 +10,7 @@
 
 ### Overview
 
-Engineering robust, scalable applications and real-time geospatial solutions. Strict focus on maintainability, clean architecture, and reliable production deployments.
+Engineering robust, scalable applications. Strict focus on maintainability, clean architecture, and reliable production deployments.
 
 ### Tech Stack
 
