@@ -12,6 +12,37 @@
 
 Engineering robust, scalable applications. Strict focus on maintainability, clean architecture, and reliable production deployments.
 
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mdev-co&show_icons=true&theme=default&title_color=4856cf&icon_color=4856cf&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage" />
+    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mdev-co&show_icons=true&theme=tokyonight&title_color=4856cf&icon_color=4856cf&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage" alt="mdev-co GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mdev-co&layout=compact&theme=default&title_color=4856cf&hide_border=true&bg_color=00000000&langs_count=8&hide=d2" />
+    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mdev-co&layout=compact&theme=tokyonight&title_color=4856cf&hide_border=true&bg_color=00000000&langs_count=8&hide=d2" alt="Most used languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mdev-co&theme=default&hide_border=true&background=00000000&stroke=4856cf&ring=4856cf&fire=cf6548" />
+    <img height="165" src="https://streak-stats.demolab.com?user=mdev-co&theme=tokyonight&hide_border=true&background=00000000&stroke=4856cf&ring=4856cf&fire=cf6548" alt="Contribution streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdev-co/mdev-co/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mdev-co/mdev-co/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdev-co/mdev-co/output/profile-3d.svg" alt="3D contribution graph" />
+</p>
+
 ## Tech Stack
 
 <p align="center">
@@ -59,37 +90,6 @@ Engineering robust, scalable applications. Strict focus on maintainability, clea
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlNsYWNrPC90aXRsZT48cGF0aCBkPSJNNS4wNDIgMTUuMTY1YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIgMi41MjNBMi41MjggMi41MjggMCAwIDEgMCAxNS4xNjVhMi41MjcgMi41MjcgMCAwIDEgMi41MjItMi41MmgyLjUydjIuNTJ6TTYuMzEzIDE1LjE2NWEyLjUyNyAyLjUyNyAwIDAgMSAyLjUyMS0yLjUyIDIuNTI3IDIuNTI3IDAgMCAxIDIuNTIxIDIuNTJ2Ni4zMTNBMi41MjggMi41MjggMCAwIDEgOC44MzQgMjRhMi41MjggMi41MjggMCAwIDEtMi41MjEtMi41MjJ2LTYuMzEzek04LjgzNCA1LjA0MmEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMS0yLjUyQTIuNTI4IDIuNTI4IDAgMCAxIDguODM0IDBhMi41MjggMi41MjggMCAwIDEgMi41MjEgMi41MjJ2Mi41Mkg4LjgzNHpNOC44MzQgNi4zMTNhMi41MjggMi41MjggMCAwIDEgMi41MjEgMi41MjEgMi41MjggMi41MjggMCAwIDEtMi41MjEgMi41MjFIMi41MjJBMi41MjggMi41MjggMCAwIDEgMCA4LjgzNGEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMi0yLjUyMWg2LjMxMnpNMTguOTU2IDguODM0YTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIyLTIuNTIxQTIuNTI4IDIuNTI4IDAgMCAxIDI0IDguODM0YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIyIDIuNTIxaC0yLjUyMlY4LjgzNHpNMTcuNjg4IDguODM0YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIzIDIuNTIxIDIuNTI3IDIuNTI3IDAgMCAxLTIuNTItMi41MjFWMi41MjJBMi41MjcgMi41MjcgMCAwIDEgMTUuMTY1IDBhMi41MjggMi41MjggMCAwIDEgMi41MjMgMi41MjJ2Ni4zMTJ6TTE1LjE2NSAxOC45NTZhMi41MjggMi41MjggMCAwIDEgMi41MjMgMi41MjJBMi41MjggMi41MjggMCAwIDEgMTUuMTY1IDI0YTIuNTI3IDIuNTI3IDAgMCAxLTIuNTItMi41MjJ2LTIuNTIyaDIuNTJ6TTE1LjE2NSAxNy42ODhhMi41MjcgMi41MjcgMCAwIDEtMi41Mi0yLjUyMyAyLjUyNiAyLjUyNiAwIDAgMSAyLjUyLTIuNTJoNi4zMTNBMi41MjcgMi41MjcgMCAwIDEgMjQgMTUuMTY1YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIyIDIuNTIzaC02LjMxM3oiLz48L3N2Zz4=" alt="Slack" />
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mdev-co&show_icons=true&theme=default&title_color=4856cf&icon_color=4856cf&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage" />
-    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mdev-co&show_icons=true&theme=tokyonight&title_color=4856cf&icon_color=4856cf&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage" alt="mdev-co GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mdev-co&layout=compact&theme=default&title_color=4856cf&hide_border=true&bg_color=00000000&langs_count=8&hide=d2" />
-    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mdev-co&layout=compact&theme=tokyonight&title_color=4856cf&hide_border=true&bg_color=00000000&langs_count=8&hide=d2" alt="Most used languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mdev-co&theme=default&hide_border=true&background=00000000&stroke=4856cf&ring=4856cf&fire=cf6548" />
-    <img height="165" src="https://streak-stats.demolab.com?user=mdev-co&theme=tokyonight&hide_border=true&background=00000000&stroke=4856cf&ring=4856cf&fire=cf6548" alt="Contribution streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdev-co/mdev-co/output/pacman-contribution-graph-dark.svg" />
-    <img src="https://raw.githubusercontent.com/mdev-co/mdev-co/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdev-co/mdev-co/output/profile-3d.svg" alt="3D contribution graph" />
 </p>
 
 ## Dev Quote
